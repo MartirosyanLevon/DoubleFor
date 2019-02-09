@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\bin\Debug\DoubleFor.exe.config
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\bin\Debug\DoubleFor.exe
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\bin\Debug\DoubleFor.pdb
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\obj\Debug\DoubleFor.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\obj\Debug\DoubleFor.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\obj\Debug\DoubleFor.exe
+C:\Users\mrlma\source\repos\DoubleFor\DoubleFor\obj\Debug\DoubleFor.pdb
