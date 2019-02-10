@@ -10,13 +10,20 @@ namespace DoubleFor
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+
+            Console.WriteLine("Write your first digit");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Write your second digit");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < x; i++)
             {
-                for (int j = 0; j < 10; j++)
+                for (int j = 0; j < y; j++)
                 {
                     Console.Write("*");
                 }
-                Console.WriteLine(" i = {0} ", i);
+                Console.WriteLine("-{0}", i);
+
             }
             Console.ReadKey();
         }
